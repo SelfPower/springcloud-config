@@ -1,1 +1,2 @@
-
+config:
+  info: "master pranch,springcloud-config/config-dev.yml version=1"
